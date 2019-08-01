@@ -1,2 +1,2 @@
 # preprocessor-ficdown
-Un preprocesador para ficdown
+Un preprocesador para ficdown creado por Ricardo Monascal.
