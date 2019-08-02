@@ -2,7 +2,7 @@
 
 **Prop:** *Un preprocesador para Ficdown creado por Ricardo Monascal. Ampliado por Billy Fernández.*
 
-Se establece una cabecera en el archivo .md donde se pueden declarar constantes, establecer la configuracion de ficdown y usar establecer algunas macros especiales.
+Se establece una cabecera en el archivo .md donde se pueden declarar constantes, establecer la configuracion de ficdown y usar algunas macros especiales.
 
 ejemplo:
 ```
@@ -33,6 +33,7 @@ Hola. Esto es una __PALABRA__.
 ```
 
 Si quieres usar una constante en el codigo debe estar referenciada rodeada de doble rayita abajo.
+<<<<<<< HEAD
 
 ## TODO:
 
@@ -43,3 +44,5 @@ Si quieres usar una constante en el codigo debe estar referenciada rodeada de do
 - Parser par convertir el codigo a Squiffy
 - Filtros (buscar y reemplazar cualquier cosa del texto, se puede especificar segun la salida tambien. Ejem: @filter(epub): ".gif" ".jpg"
 - Soporte para kindlegen
+=======
+>>>>>>> f00b8aa90803e70e9ac794d3998eff5f7ff2739a
