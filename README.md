@@ -33,7 +33,6 @@ Hola. Esto es una __PALABRA__.
 ```
 
 Si quieres usar una constante en el codigo debe estar referenciada rodeada de doble rayita abajo.
-<<<<<<< HEAD
 
 ## TODO:
 
