@@ -44,5 +44,3 @@ Si quieres usar una constante en el codigo debe estar referenciada rodeada de do
 - Parser par convertir el codigo a Squiffy
 - Filtros (buscar y reemplazar cualquier cosa del texto, se puede especificar segun la salida tambien. Ejem: @filter(epub): ".gif" ".jpg"
 - Soporte para kindlegen
-=======
->>>>>>> f00b8aa90803e70e9ac794d3998eff5f7ff2739a
