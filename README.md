@@ -2,7 +2,7 @@
 
 **Prop:** *Un preprocesador para Ficdown creado por Ricardo Monascal. Ampliado por Billy Fernández.*
 
-Se establece una cabecera en el archivo .md donde se pueden declarar constantes, establecer la configuracion de ficdown y usar establecer algunas macros especiales.
+Se establece una cabecera en el archivo .md donde se pueden declarar constantes, establecer la configuracion de ficdown y usar algunas macros especiales.
 
 ejemplo:
 ```
