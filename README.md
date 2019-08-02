@@ -33,3 +33,13 @@ Hola. Esto es una __PALABRA__.
 ```
 
 Si quieres usar una constante en el codigo debe estar referenciada rodeada de doble rayita abajo.
+
+## TODO:
+
+- Macro  para lugares donde no apareceran el header o el footer
+- Macro para mostrar fecha de compilacion.
+- Añadir exportación para JS-NEW o JS o PDF o DOT o MOBI
+- Incluir soporte para pandoc
+- Parser par convertir el codigo a Squiffy
+- Filtros (buscar y reemplazar cualquier cosa del texto, se puede especificar segun la salida tambien. Ejem: @filter(epub): ".gif" ".jpg"
+- Soporte para kindlegen
