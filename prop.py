@@ -25,7 +25,7 @@ outfile=infile
 
 archivo = open(sys.argv[1]+'.prop','w')
 for line in fileinput.input(sys.argv[1]):
-	if line.startswith('---'):
+	if line.startswith('---') or line.startswith('***'):
 		stage += 1
 	elif stage == 1 and line.startswith('@'):
 		[macro, config] = line.split(': ')

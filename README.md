@@ -43,3 +43,10 @@ Si quieres usar una constante en el codigo debe estar referenciada rodeada de do
 - Parser par convertir el codigo a Squiffy
 - Filtros (buscar y reemplazar cualquier cosa del texto, se puede especificar segun la salida tambien. Ejem: @filter(epub): ".gif" ".jpg"
 - Soporte para kindlegen
+- Concatenar archivos
+- Macros para diseño de First Seen
+- Devolver lista de variables y cantidad de escenas, acciones y palabras
+- Si el formato es html, añadir la carpeta espeficiada a la url de las imagenes
+- @ignore. Si esta en 1 del documento de salida sera eliminado todo lo que esté entre ~~ (ejemplo: ~~esto sera eliminado~~)
+- Poder usar la cabecera del preprocesador en un documento aparte. Un archivo .prop con el mismo nombre del archivo fuente con el que se quiera trabajar. Eliminar que obligatoriamente el documento inicie con --- y finalice con ---.
+- Uso de constantes que se apliquen solo en determinado formato, así podriamos tener varias constantes con el mismo nombre que pueden ser aplicadas segun el formato. Asi por ejemplo: ATRIBUTO: Facil (Se aplicará en cualquier formato). ATRIBUTO[html]: <p>Facil</p> (solo se aplicara cuando el formato sea html).
